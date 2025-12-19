@@ -1,6 +1,6 @@
 # Workflow SOP: Evolutionary Logic of the EPC Selection Engine
 
-This document outlines the strategic rationale and technical iterations involved in developing the EPC Selection Engine for **Unbound Potential (UP)**. It documents the transition from simple linear scoring to a sophisticated, non-linear optimization framework.
+This document outlines the strategic rationale and technical iterations involved in developing the EPC Selection Engine. It documents the transition from simple linear scoring to a sophisticated, non-linear optimization framework.
 
 ---
 
